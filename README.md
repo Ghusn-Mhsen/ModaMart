@@ -1,8 +1,23 @@
-# React + Vite
+# ModaMart is an  E-commerce App for Clothes.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React-based e-commerce app for buying clothes. It includes features like product browsing, cart management, order placement, and search functionality. The app uses the Context API for global state management and React Toastify for notifications.
 
-Currently, two official plugins are available:
+## Features
+- Browse a collection of clothing items.
+- Add products to the cart with size and quantity.
+- Place orders and view order history.
+- Search for products using a search bar.
+- Toast notifications for user actions.
+- Global state management using Context API.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React
+- Vite
+- React Router DOM
+- React Toastify
+- Tailwind CSS
+- Context API
+
+## Global State Management
+The app uses the **Context API** to manage global state, such as cart items and search queries. This allows data to be shared across components without prop drilling.
+
