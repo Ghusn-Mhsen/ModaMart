@@ -21,3 +21,21 @@ This is a React-based e-commerce app for buying clothes. It includes features li
 ## Global State Management
 The app uses the **Context API** to manage global state, such as cart items and search queries. This allows data to be shared across components without prop drilling.
 
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone  https://github.com/Ghusn-Mhsen/ModaMart
+
+2. open worldwise Folder:
+ ```bash
+   cd ModaMart
+```
+3. Install dependencies:
+ ```bash
+ npm install
+```
+4. Start the development server:
+ ```bash
+ npm run dev
+```
