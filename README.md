@@ -27,8 +27,8 @@ The app uses the **Context API** to manage global state, such as cart items and 
    ```bash
    git clone  https://github.com/Ghusn-Mhsen/ModaMart
 
-2. open worldwise Folder:
- ```bash
+2. open ModaMart Folder:
+  ```bash
    cd ModaMart
 ```
 3. Install dependencies:
